@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/foodoHub/project-docs/blob/main/branding/logo/FACE_TRANSPARENT.png" alt="foodo logo" width="300"/>
+  <img src="https://github.com/foodoHub/project-docs/blob/main/branding/logo/FACE_TRANSPARENT.png" alt="foodo logo" width="100"/>
 </p>
 
 # Welcome to foodo!
